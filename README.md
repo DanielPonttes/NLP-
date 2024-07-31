@@ -31,6 +31,8 @@ Este repositório contém um exemplo de código que utiliza o modelo BERT pré-t
 * PyTorch
 * Transformers (Hugging Face)
 
+## Instalação
+
 Para instalar as dependências, execute no bash:
 
 
